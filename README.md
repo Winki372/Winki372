@@ -1,10 +1,8 @@
+[![MasterHead](https://giffiles.alphacoders.com/145/14561.gif)](https://github.com/Winki372)
 <h1 align="center">Hi 👋, I'm Winki</h1>
 <h3 align="center">I am currently Interesting in Cyber Security, Bug Hunter, etc.</h3>
-<img align="right" alt="Coding" width="400" src="https://allthatsinteresting.com/wordpress/wp-content/uploads/2015/05/spirited-away.gif">
-
+<img align="right" alt="Coding" https://www.icegif.com/wp-content/uploads/2022/08/icegif-342.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winki&label=Profile%20views&color=0e75b6&style=flat" alt="winki" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=winki" alt="winki" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Css**
 
@@ -22,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=winki&show_icons=true&locale=en&layout=compact" alt="winki" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=winki&show_icons=true&locale=en" alt="winki" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=winki&" alt="winki" /></p>
