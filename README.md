@@ -1,4 +1,4 @@
- <a href = "https://github.com/NightWolf324"><img src = "https://cardivo.vercel.app/api?name=Winki&description=Hi,%20I%27am%20Winki,%20Selamat%20Pagi,%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://telegra.ph/file/i.pinimg.com/736x/7e/a5/91/7ea591287583ba3f6504ef9c7b77ee46.jpg/u/33148052?v=4&backgroundColor=%23ecf0f1&instagram=thrxsm&github=Winki372&pattern=topography&colorPattern=%23eaeaea"/><a>
+ <a href = "https://github.com/NightWolf324"><img src = "https://cardivo.vercel.app/api?name=Winki&description=Hi,%20I%27am%20Winki,%20Selamat%20Pagi,%20Nice%20to%20meet%20you,%20and%20have%20a%20Good%20Day%20%F0%9F%91%8B&image=https://telegra.ph/file/i.pinimg.com/736x/7e/a5/91/7ea591287583ba3f6504ef9c7b77ee46.jpg/u/33148052?v=4&backgroundColor=%23ecf0f1&instagram=thrxsm&github=Winki372&pattern=topography&colorPattern=%23eaeaea"/><a>
 
 <h1 align="center">Hi 👋, I'm Winki</h1>
 <h3 align="center">I am currently Interesting in Cyber Security, Bug Hunter, etc.</h3>
