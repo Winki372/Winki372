@@ -1,13 +1,8 @@
-<a href = "https://github.com/Winki372"><img src = "https://cardivo.vercel.app/api?name=NightWolf324&description=WELCOME%20TO%20MY%20GITHUB%20🐤&image=https://telegra.ph/file/6b6f0e03dadfe83479676.jpg?v=4&backgroundColor=%23ecf0f1&instagram=nightwolf.324&github=NightWolf324&pattern=ticTacToe&colorPattern=%23eaeaea"/><a>
-<p align="right"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=NightWolf324&label=Profile%20views&color=0e75b6&style=flat"
-    alt="NightWolf324" /> 
-  </p>
-    
-<p align='center'>
-  <a href="@thoriqkun372@gmail.com"><img height="30" src="https://telegra.ph/file/a60d8d81f3b6bddae32ed.png"></a>
-  <a href="https://instagram.com/thrxsm"><img height="30" src="https://telegra.ph/file/c71ff19ff0dae8b219347.png"></a>
-</p>
-</br>
+[![MasterHead](https://giffiles.alphacoders.com/145/14561.gif)](https://github.com/Winki372)
+<h1 align="center">Hi 👋, I'm Winki</h1>
+<h3 align="center">I am currently Interesting in Cyber Security, Bug Hunter, etc.</h3>
+<img align="right" alt="Coding" width="500" src="https://www.icegif.com/wp-content/uploads/2022/08/icegif-342.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=winki&label=Profile%20views&color=0e75b6&style=flat" alt="winki" /> </p>
 
 - 🌱 I’m currently learning **Python, Css**
 
