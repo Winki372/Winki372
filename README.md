@@ -1,4 +1,8 @@
-![Winki's card name]([https://cardivo.vercel.app/api?name=[name]&description=[description]&image=[image_url]](https://cardivo.vercel.app/api?name=Shikiro&description=WELCOME%20TO%20MY%20GITHUB%20%F0%9F%98%8E&image=https://telegra.ph/file/6b6f0e03dadfe83479676.jpg?v=4&backgroundColor=%23ecf0f1&instagram=nightwolf.324&github=NightWolf324&pattern=ticTacToe&colorPattern=%23eaeaea))
+[![MasterHead]
+<a href = "https://github.com/Winki372"><img src = "[https://cardivo.vercel.app/api?name=NightWolf324&description=WELCOME%20TO%20MY%20GITHUB%20🐤&image=https://telegra.ph/file/6b6f0e03dadfe83479676.jpg?v=4&backgroundColor=%23ecf0f1&instagram=nightwolf.324&github=NightWolf324&pattern=ticTacToe&colorPattern=%23eaeaea](https://cardivo.vercel.app/api?name=Shikiro&description=WELCOME%20TO%20MY%20GITHUB%20😎&image=https://telegra.ph/file/6b6f0e03dadfe83479676.jpg?v=4&backgroundColor=%23ecf0f1&instagram=nightwolf.324&github=NightWolf324&pattern=ticTacToe&colorPattern=%23eaeaea)"/><a>
+<p align="right"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=NightWolf324&label=Profile%20views&color=0e75b6&style=flat"
+    alt="NightWolf324" /> 
+  </p>
 <h1 align="center">Hi 👋, I'm Winki</h1>
 <h3 align="center">I am currently Interesting in Cyber Security, Bug Hunter, etc.</h3>
 <img align="right" alt="Coding" width="500" src="https://www.icegif.com/wp-content/uploads/2022/08/icegif-342.gif">
