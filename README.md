@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python, Css**
 
-- 📫 How to reach me **my instagram @thrxsm**
+- 📫 How to reach me **instagram @thrxsm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
