@@ -21,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=winki&show_icons=true&locale=en" alt="winki" /></p>
 
-![Snake animation](https://github.com/Winki372/Winki372/blob/output/github-contribution-grid-snake.svg)
