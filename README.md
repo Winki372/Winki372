@@ -1,7 +1,13 @@
-[![MasterHead](https://giffiles.alphacoders.com/145/14561.gif)](https://github.com/Winki372)
-<h1 align="center">Hi 👋, I'm Winki</h1>
-<h3 align="center">I am currently Interesting in Cyber Security, Bug Hunter, etc.</h3>
-<img align="right" alt="Coding" width="500" src="https://www.icegif.com/wp-content/uploads/2022/08/icegif-342.gif">
+<a href = "https://github.com/Winki372"><img src = "https://c.tenor.com/iNpoS6srIXkAAAAd/waneella-pixel-art.gif"/><a>
+<p align="right"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=winki&label=Profile%20views&color=0e75b6&style=flat"
+    alt="NightWolf324" /> 
+  </p>
+    
+<p align='center'>
+  <a href="https://www.facebook.com/stMuhsinin"><img height="30" src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-0.png"></a>
+  <a href="https://instagram.com/thrxsm"><img height="30" src="https://telegra.ph/file/c71ff19ff0dae8b219347.png"></a>
+</p>
+</br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winki&label=Profile%20views&color=0e75b6&style=flat" alt="winki" /> </p>
 
 - 🌱 I’m currently learning **Python, Css**
