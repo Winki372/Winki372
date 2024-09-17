@@ -1,6 +1,6 @@
  <a href = "https://github.com/Winki372"><img src = "https://cardivo.vercel.app/api?name=Winki&description=Hi,%20I%27m%20Winki.%20Currently%20Interesting%20in%20Cyber%20Security,%20Bug%20Hunter,%20etc.%20Nice%20to%20meet%20you,%20and%20have%20a%20Good%20Day%20%F0%9F%91%8B&image=//i.pinimg.com/736x/7e/a5/91/7ea591287583ba3f6504ef9c7b77ee46.jpg&backgroundColor=%23ecf0f1&instagram=thrxsm&github=Winki372&pattern=topography&colorPattern=%23eaeaea"/><a>
  
-<img align="right" alt="Coding" width="500" src="[https://www.icegif.com/wp-content/uploads/2022/08/icegif-342.gif](https://th.bing.com/th/id/R.39487e736b958d34d304367a14ce7b4b?rik=pwobo5Ds7rsvfg&riu=http%3a%2f%2f68.media.tumblr.com%2faa0d6fb7aa8e8c76c26931551ff8027d%2ftumblr_ol0aibEmI71v06cowo1_500.gif&ehk=Qrl%2bnHpJ6tcdEwV39qj0%2f1D1eM7bKTnLZ58iIMEpDP4%3d&risl=&pid=ImgRaw&r=0)">
+<img align="right" alt="Coding" width="500" src="[https://www.icegif.com/wp-content/uploads/2022/08/icegif-342.gif]">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winki&label=Profile%20views&color=0e75b6&style=flat" alt="winki" /> </p>
 
 - 🌱 I’m currently learning **Python, Css**
