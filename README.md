@@ -6,6 +6,7 @@
 - 📝 I’m currently learning **Python, Css**
 
 - 📫 How to reach me :
+- **Linkedin = www.linkedin.com/in/muhsinin**
 - **Instagram = @thrxsm**
 - **Email = you can text me in DM Instagram**
 
