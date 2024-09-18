@@ -6,9 +6,9 @@
 - 📝 I’m currently learning **Python, Css**
 
 - 📫 How to reach me :
-- **Linkedin = www.linkedin.com/in/muhsinin**
-- **Instagram = @thrxsm**
-- **Email = you can text me in DM Instagram**
+- **Linkedin = <a href="www.linkedin.com/in/muhsinin">My Linkedin Account</a>**
+- **Instagram = <a href="https://instagram.com/thrxsm">My Instagram Account</a>**
+- **Email = you can text me in DM Instagram or Linkedin chat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
