@@ -5,11 +5,6 @@
 
 - 📝 I’m currently learning **Python, Css**
 
-- 📫 How to reach me :
-- **Linkedin = <a href="www.linkedin.com/in/muhsinin">My Linkedin Account</a>**
-- **Instagram = <a href="https://instagram.com/thrxsm">My Instagram Account</a>**
-- **Email = you can text me in DM Instagram or Linkedin chat**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/st. muhsinin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Muhsinin S T" height="30" width="40" /></a>
